@@ -1,3 +1,4 @@
+#cleaner data from the IMU
 from machine import Pin, I2C
 import mpu6050 
 import time
